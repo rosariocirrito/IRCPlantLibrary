@@ -1,0 +1,32 @@
+###########################################
+# Syntax Coloring Map For IRCPlantAutomation
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+IRCPlantLibrary	KEYWORD1
+Equip	KEYWORD1
+Sensor	KEYWORD1
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+attiva	KEYWORD2
+accendi	KEYWORD2
+spegni	KEYWORD2
+updateMotor KEYWORD2
+getDIStatus KEYWORD2
+getDOCommand KEYWORD2
+isDICOS KEYWORD2
+isDOCOS KEYWORD2
+setGo KEYWORD2
+decodeCmd KEYWORD2
+getCmdRem KEYWORD2
+setCmdRem KEYWORD2
+getCmdLoc KEYWORD2
+setCmdLoc KEYWORD2
+###########################################
+# Constants (LITERAL1)
+###########################################
+
